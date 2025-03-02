@@ -1,0 +1,5 @@
+#MYSQL_HOST: mysql.sridevsecops.store
+MYSQL_USER: root
+MYSQL_PASSWORD: ExpenseApp1
+APP_DIRECTORY: /app
+COMPONENT: backend
