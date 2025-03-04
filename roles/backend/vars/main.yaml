@@ -1,4 +1,4 @@
-#MYSQL_HOST: mysql.sridevsecops.store
+MYSQL_HOST: "mysql-{{ ENVIRONMENT }}.sridevsecops.store"
 MYSQL_USER: root
 MYSQL_PASSWORD: ExpenseApp1
 APP_DIRECTORY: /app
